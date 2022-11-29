@@ -1,0 +1,944 @@
+[
+    {
+        "La criptovaluta con il volume maggiore (in $) delle ultime 24 ore": {
+            "id": 825,
+            "name": "Tether",
+            "symbol": "USDT",
+            "slug": "tether",
+            "num_market_pairs": 42755,
+            "date_added": "2015-02-25T00:00:00.000Z",
+            "tags": [
+                "payments",
+                "stablecoin",
+                "asset-backed-stablecoin",
+                "avalanche-ecosystem",
+                "solana-ecosystem",
+                "arbitrum-ecosytem",
+                "moonriver-ecosystem",
+                "injective-ecosystem",
+                "bnb-chain",
+                "usd-stablecoin"
+            ],
+            "max_supply": null,
+            "circulating_supply": 65362681003.31587,
+            "total_supply": 73141766321.23428,
+            "platform": {
+                "id": 1027,
+                "name": "Ethereum",
+                "symbol": "ETH",
+                "slug": "ethereum",
+                "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+            },
+            "cmc_rank": 3,
+            "self_reported_circulating_supply": null,
+            "self_reported_market_cap": null,
+            "tvl_ratio": null,
+            "last_updated": "2022-11-29T14:04:00.000Z",
+            "quote": {
+                "USD": {
+                    "price": 0.99973464562036,
+                    "volume_24h": 34592310358.14453,
+                    "volume_change_24h": 2.1421,
+                    "percent_change_1h": -0.00147772,
+                    "percent_change_24h": 0.00313425,
+                    "percent_change_7d": 0.0690572,
+                    "percent_change_30d": -0.05356264,
+                    "percent_change_60d": -0.03311887,
+                    "percent_change_90d": -0.03246145,
+                    "market_cap": 65345336729.64663,
+                    "market_cap_dominance": 7.8437,
+                    "fully_diluted_market_cap": 73122357833.21,
+                    "tvl": null,
+                    "last_updated": "2022-11-29T14:04:00.000Z"
+                }
+            }
+        },
+        "Le migliori 10 criptovalute (per incremento in percentuale delle ultime 24 ore)": [
+            {
+                "1": {
+                    "id": 15230,
+                    "name": "Cheems Inu",
+                    "symbol": "CINU",
+                    "slug": "cheems-inu",
+                    "num_market_pairs": 9,
+                    "date_added": "2021-11-28T03:00:00.000Z",
+                    "tags": [],
+                    "max_supply": 9007199254740991,
+                    "circulating_supply": 0,
+                    "total_supply": 9007199254740991,
+                    "platform": {
+                        "id": 1839,
+                        "name": "BNB",
+                        "symbol": "BNB",
+                        "slug": "bnb",
+                        "token_address": "0xdfe6891ce8e5a5c7cf54ffde406a6c2c54145f71"
+                    },
+                    "cmc_rank": 5211,
+                    "self_reported_circulating_supply": 4.86e+21,
+                    "self_reported_market_cap": 4196489553.53136,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 8.63475216776e-13,
+                            "volume_24h": 3205.21264899,
+                            "volume_change_24h": 24.6026,
+                            "percent_change_1h": -1.58170695,
+                            "percent_change_24h": 133558.68717796,
+                            "percent_change_7d": 159989.58910873,
+                            "percent_change_30d": 95428.79407624,
+                            "percent_change_60d": 117126.03032566,
+                            "percent_change_90d": 81379.91174965,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 7777.49,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "2": {
+                    "id": 12046,
+                    "name": "Idexo Token",
+                    "symbol": "IDO",
+                    "slug": "idexo-token",
+                    "num_market_pairs": 3,
+                    "date_added": "2021-09-22T05:50:40.000Z",
+                    "tags": [],
+                    "max_supply": 100000000,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0xF9c53268e9de692AE1b2ea5216E24e1c3ad7CB1E"
+                    },
+                    "cmc_rank": 7312,
+                    "self_reported_circulating_supply": 43330269,
+                    "self_reported_market_cap": 2161595.89186864,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.049886509863777684,
+                            "volume_24h": 8.22143026,
+                            "volume_change_24h": 156.2682,
+                            "percent_change_1h": -0.00215641,
+                            "percent_change_24h": 26164.16958411,
+                            "percent_change_7d": -0.13107681,
+                            "percent_change_30d": -36.14237755,
+                            "percent_change_60d": -42.26442196,
+                            "percent_change_90d": 29.91012698,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 4988650.99,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "3": {
+                    "id": 15486,
+                    "name": "PumpETH",
+                    "symbol": "PETH",
+                    "slug": "pumpeth",
+                    "num_market_pairs": 1,
+                    "date_added": "2021-12-02T07:55:42.000Z",
+                    "tags": [],
+                    "max_supply": null,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": {
+                        "id": 1839,
+                        "name": "BNB",
+                        "symbol": "BNB",
+                        "slug": "bnb",
+                        "token_address": "0x2e74Ee4fc4466d0883eF5E12A0Ce344BFe15BE8D"
+                    },
+                    "cmc_rank": 5587,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 1.8880518052812108e-08,
+                            "volume_24h": 1196.0545804,
+                            "volume_change_24h": -7.6664,
+                            "percent_change_1h": -9.29555979,
+                            "percent_change_24h": 10941.07106653,
+                            "percent_change_7d": 8529.32043672,
+                            "percent_change_30d": 10205.18968683,
+                            "percent_change_60d": -99.98545439,
+                            "percent_change_90d": 22.88573069,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 0,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "4": {
+                    "id": 16278,
+                    "name": "Mickey",
+                    "symbol": "MCK",
+                    "slug": "mickey",
+                    "num_market_pairs": 1,
+                    "date_added": "2021-12-20T09:58:10.000Z",
+                    "tags": [],
+                    "max_supply": 10000000000,
+                    "circulating_supply": 0,
+                    "total_supply": 10000000000,
+                    "platform": {
+                        "id": 5426,
+                        "name": "Solana",
+                        "symbol": "SOL",
+                        "slug": "solana",
+                        "token_address": "E48Ueg1o9avL5s7XBjfLViercSrNSJCvmbZMvnwN873"
+                    },
+                    "cmc_rank": 6756,
+                    "self_reported_circulating_supply": 10000000000,
+                    "self_reported_market_cap": 4801.5958042176435,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 4.801595804217644e-07,
+                            "volume_24h": 49.65848844,
+                            "volume_change_24h": 0,
+                            "percent_change_1h": 7394.61171857,
+                            "percent_change_24h": 7394.22016742,
+                            "percent_change_7d": 8266.25057516,
+                            "percent_change_30d": 8803.51250653,
+                            "percent_change_60d": 2432.19741382,
+                            "percent_change_90d": 19.11833957,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 4801.6,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "5": {
+                    "id": 14529,
+                    "name": "NPC DAO",
+                    "symbol": "NPC",
+                    "slug": "npc-dao",
+                    "num_market_pairs": 1,
+                    "date_added": "2021-11-15T09:56:03.000Z",
+                    "tags": [],
+                    "max_supply": 8548487400,
+                    "circulating_supply": 0,
+                    "total_supply": 8548487400,
+                    "platform": {
+                        "id": 5426,
+                        "name": "Solana",
+                        "symbol": "SOL",
+                        "slug": "solana",
+                        "token_address": "EuD5L5XSYKzyDC1YyYzmoWC8gmJhpEh2vMj4f8LeRW8r"
+                    },
+                    "cmc_rank": 7748,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.00027061470876406493,
+                            "volume_24h": 0.07485856,
+                            "volume_change_24h": -91.063,
+                            "percent_change_1h": 0.01079294,
+                            "percent_change_24h": 5418.6718037,
+                            "percent_change_7d": 11105.1862936,
+                            "percent_change_30d": 10452.29975472,
+                            "percent_change_60d": 3720.3708779,
+                            "percent_change_90d": 511.1979446,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 2313346.43,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "6": {
+                    "id": 11962,
+                    "name": "Bright Token",
+                    "symbol": "BRIGHT",
+                    "slug": "bright-token",
+                    "num_market_pairs": 7,
+                    "date_added": "2021-09-18T17:01:24.000Z",
+                    "tags": [],
+                    "max_supply": null,
+                    "circulating_supply": 0,
+                    "total_supply": 25000000,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe"
+                    },
+                    "cmc_rank": 6355,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.2478839680808325,
+                            "volume_24h": 161.12538333,
+                            "volume_change_24h": 34.3721,
+                            "percent_change_1h": -0.47539311,
+                            "percent_change_24h": 2624.84122395,
+                            "percent_change_7d": 605.79501697,
+                            "percent_change_30d": 1646.4119797,
+                            "percent_change_60d": 647.06438586,
+                            "percent_change_90d": 519.69723565,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 6197099.2,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "7": {
+                    "id": 9081,
+                    "name": "SafeEarth",
+                    "symbol": "SAFEEARTH",
+                    "slug": "safeearth",
+                    "num_market_pairs": 3,
+                    "date_added": "2021-04-08T00:00:00.000Z",
+                    "tags": [],
+                    "max_supply": 557294413228759,
+                    "circulating_supply": 0,
+                    "total_supply": 557294413228759.56,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0xe6f1966d04cfcb9cd1b1dc4e8256d8b501b11cba"
+                    },
+                    "cmc_rank": 6191,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 2.449337658642391e-09,
+                            "volume_24h": 248.06519424,
+                            "volume_change_24h": 1997.6893,
+                            "percent_change_1h": -5.73500701,
+                            "percent_change_24h": 814.2143198,
+                            "percent_change_7d": 390.33840044,
+                            "percent_change_30d": 289.83433788,
+                            "percent_change_60d": 860.46737859,
+                            "percent_change_90d": 597.80271348,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 1365002.19,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "8": {
+                    "id": 22672,
+                    "name": "LaEeb Token",
+                    "symbol": "LAEEB",
+                    "slug": "laeeb-token-2",
+                    "num_market_pairs": 1,
+                    "date_added": "2022-11-16T06:48:00.000Z",
+                    "tags": [],
+                    "max_supply": 1000000000000000,
+                    "circulating_supply": 0,
+                    "total_supply": 1000000000000000,
+                    "platform": {
+                        "id": 1839,
+                        "name": "BNB",
+                        "symbol": "BNB",
+                        "slug": "bnb",
+                        "token_address": "0x9c8c624e9dff5b840e834b3336b52a224d52578a"
+                    },
+                    "cmc_rank": 3074,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 1.030419741611509e-09,
+                            "volume_24h": 273321.59515124,
+                            "volume_change_24h": 39416.7682,
+                            "percent_change_1h": -5.68053777,
+                            "percent_change_24h": 611.68106121,
+                            "percent_change_7d": 245.52420001,
+                            "percent_change_30d": -29.02690935,
+                            "percent_change_60d": -29.02690935,
+                            "percent_change_90d": -29.02690935,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 1030419.74,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "9": {
+                    "id": 2958,
+                    "name": "TurtleCoin",
+                    "symbol": "TRTL",
+                    "slug": "turtlecoin",
+                    "num_market_pairs": 11,
+                    "date_added": "2018-07-23T00:00:00.000Z",
+                    "tags": [
+                        "mineable",
+                        "privacy"
+                    ],
+                    "max_supply": 132995789787,
+                    "circulating_supply": 99406232195.02,
+                    "total_supply": 99406232195.02,
+                    "platform": null,
+                    "cmc_rank": 1201,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 1.6260871935152783e-05,
+                            "volume_24h": 93377.92256988,
+                            "volume_change_24h": 100.0411,
+                            "percent_change_1h": 169.81608342,
+                            "percent_change_24h": 515.52997149,
+                            "percent_change_7d": 494.57227925,
+                            "percent_change_30d": 474.06196758,
+                            "percent_change_60d": 457.05800761,
+                            "percent_change_90d": 364.99779653,
+                            "market_cap": 1616432.0112792817,
+                            "market_cap_dominance": 0.0002,
+                            "fully_diluted_market_cap": 2162627.51,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "10": {
+                    "id": 10311,
+                    "name": "NFT STARS",
+                    "symbol": "NFTS",
+                    "slug": "nft-stars",
+                    "num_market_pairs": 9,
+                    "date_added": "2021-06-07T00:00:00.000Z",
+                    "tags": [
+                        "collectibles-nfts",
+                        "bnb-chain"
+                    ],
+                    "max_supply": 20000000,
+                    "circulating_supply": 0,
+                    "total_supply": 20000000,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0x08037036451c768465369431da5c671ad9b37dbc"
+                    },
+                    "cmc_rank": 5405,
+                    "self_reported_circulating_supply": 1997660.4,
+                    "self_reported_market_cap": 179767.6537521095,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.08998909612069675,
+                            "volume_24h": 1863.99609971,
+                            "volume_change_24h": 1705.945,
+                            "percent_change_1h": -0.4409273,
+                            "percent_change_24h": 480.37974267,
+                            "percent_change_7d": 12.50528046,
+                            "percent_change_30d": 279.43640184,
+                            "percent_change_60d": -15.59914061,
+                            "percent_change_90d": -25.97955886,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 1799781.92,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            }
+        ],
+        "Le peggiori 10 criptovalute (per incremento in percentuale delle ultime 24 ore)": [
+            {
+                "1": {
+                    "id": 15041,
+                    "name": "youves uUSD",
+                    "symbol": "UUSD",
+                    "slug": "youves",
+                    "num_market_pairs": 4,
+                    "date_added": "2021-11-23T06:19:42.000Z",
+                    "tags": [],
+                    "max_supply": 9007199254740991,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": {
+                        "id": 2011,
+                        "name": "Tezos",
+                        "symbol": "XTZ",
+                        "slug": "tezos",
+                        "token_address": "KT1XRPEPXbZK25r3Htzp2o1x7xdMMmfocKNW"
+                    },
+                    "cmc_rank": 6713,
+                    "self_reported_circulating_supply": 7601578.74,
+                    "self_reported_market_cap": 7600131.665168663,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.9998096349612584,
+                            "volume_24h": 58.67323645,
+                            "volume_change_24h": 0,
+                            "percent_change_1h": -0.00215641,
+                            "percent_change_24h": -99.99382702,
+                            "percent_change_7d": 0.07758,
+                            "percent_change_30d": 0.1237032,
+                            "percent_change_60d": 0.76094561,
+                            "percent_change_90d": 0.00891971,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 9005484598905909,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "2": {
+                    "id": 9323,
+                    "name": "GrafenoCoin",
+                    "symbol": "GFNC",
+                    "slug": "grafeno",
+                    "num_market_pairs": 7,
+                    "date_added": "2021-04-20T00:00:00.000Z",
+                    "tags": [
+                        "bnb-chain"
+                    ],
+                    "max_supply": 100000000000,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": {
+                        "id": 1839,
+                        "name": "BNB",
+                        "symbol": "BNB",
+                        "slug": "bnb",
+                        "token_address": "0xa47d87704d8fde73a19eab2a2343947ae8537b02"
+                    },
+                    "cmc_rank": 7107,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 4.23061039447383e-10,
+                            "volume_24h": 17.15336604,
+                            "volume_change_24h": 0,
+                            "percent_change_1h": -0.43117056,
+                            "percent_change_24h": -99.47763375,
+                            "percent_change_7d": -22.37501364,
+                            "percent_change_30d": 2.66623726,
+                            "percent_change_60d": 299.12143199,
+                            "percent_change_90d": 8.19196058,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 42.31,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "3": {
+                    "id": 3255,
+                    "name": "CyberMusic",
+                    "symbol": "CYMT",
+                    "slug": "cybermusic",
+                    "num_market_pairs": 5,
+                    "date_added": "2018-09-07T00:00:00.000Z",
+                    "tags": [],
+                    "max_supply": null,
+                    "circulating_supply": 15500000000,
+                    "total_supply": 15500000000,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0x78c292d1445e6b9558bf42e8bc369271ded062ea"
+                    },
+                    "cmc_rank": 2511,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 3.28645290678652e-07,
+                            "volume_24h": 0,
+                            "volume_change_24h": 0,
+                            "percent_change_1h": -0.32627082,
+                            "percent_change_24h": -94.53912286,
+                            "percent_change_7d": -94.34581525,
+                            "percent_change_30d": -20.5051942,
+                            "percent_change_60d": -95.21219594,
+                            "percent_change_90d": -19.15916295,
+                            "market_cap": 5094.002005519106,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 5094,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "4": {
+                    "id": 21995,
+                    "name": "microNFT",
+                    "symbol": "MNT",
+                    "slug": "micronft",
+                    "num_market_pairs": 4,
+                    "date_added": "2022-09-29T02:11:13.000Z",
+                    "tags": [],
+                    "max_supply": null,
+                    "circulating_supply": 0,
+                    "total_supply": 1000000000,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0xc7c36ee729968944a86e0cd504deccd3b0edbae1"
+                    },
+                    "cmc_rank": 9072,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.0463451202699607,
+                            "volume_24h": 0,
+                            "volume_change_24h": 0,
+                            "percent_change_1h": -45.93288122,
+                            "percent_change_24h": -93.86594504,
+                            "percent_change_7d": -16.45231831,
+                            "percent_change_30d": -70.6385383,
+                            "percent_change_60d": -99.81120891,
+                            "percent_change_90d": -99.8189253,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 46345120.27,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "5": {
+                    "id": 10918,
+                    "name": "Crypto Village Accelerator",
+                    "symbol": "CVAG",
+                    "slug": "new-crypto-village-accelerator",
+                    "num_market_pairs": 8,
+                    "date_added": "2021-07-15T00:00:00.000Z",
+                    "tags": [],
+                    "max_supply": 2000000000000,
+                    "circulating_supply": 0,
+                    "total_supply": 4000000000,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0x72a66e54b66892ae3bbe54df7bb7dd5ae927a6f9"
+                    },
+                    "cmc_rank": 7325,
+                    "self_reported_circulating_supply": 460000000000,
+                    "self_reported_market_cap": 3322.732040477734,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 7.223330522777682e-09,
+                            "volume_24h": 7.69765297,
+                            "volume_change_24h": 137.5788,
+                            "percent_change_1h": -0.06117901,
+                            "percent_change_24h": -92.77443784,
+                            "percent_change_7d": -81.60615557,
+                            "percent_change_30d": -92.77865415,
+                            "percent_change_60d": -92.77276382,
+                            "percent_change_90d": -92.7416572,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 14446.66,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "6": {
+                    "id": 5985,
+                    "name": "Limestone Network",
+                    "symbol": "LIMEX",
+                    "slug": "limestone-network",
+                    "num_market_pairs": 2,
+                    "date_added": "2020-07-31T00:00:00.000Z",
+                    "tags": [],
+                    "max_supply": 2000000000,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0x400b1d8a7dd8C471026B2c8CBe1062b27d120538"
+                    },
+                    "cmc_rank": 7432,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 3.7989726950371784e-05,
+                            "volume_24h": 4.95173543,
+                            "volume_change_24h": -2.8071,
+                            "percent_change_1h": -0.00215641,
+                            "percent_change_24h": -90.25603492,
+                            "percent_change_7d": -90.24968121,
+                            "percent_change_30d": -90.10601403,
+                            "percent_change_60d": -90.50313378,
+                            "percent_change_90d": -59.27312938,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 75979.45,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "7": {
+                    "id": 12874,
+                    "name": "Almond",
+                    "symbol": "ALM",
+                    "slug": "almond",
+                    "num_market_pairs": 2,
+                    "date_added": "2021-10-19T09:10:29.000Z",
+                    "tags": [],
+                    "max_supply": null,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": null,
+                    "cmc_rank": 7712,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 3.900536124597596e-08,
+                            "volume_24h": 0.31559644,
+                            "volume_change_24h": -85.7016,
+                            "percent_change_1h": 0.01079294,
+                            "percent_change_24h": -89.68671893,
+                            "percent_change_7d": -75.99644067,
+                            "percent_change_30d": -93.43022133,
+                            "percent_change_60d": -93.0720693,
+                            "percent_change_90d": -95.73117832,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 0,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "8": {
+                    "id": 18194,
+                    "name": "LogiTron",
+                    "symbol": "LTR",
+                    "slug": "logitron",
+                    "num_market_pairs": 2,
+                    "date_added": "2022-02-18T10:17:03.000Z",
+                    "tags": [
+                        "ethereum-ecosystem"
+                    ],
+                    "max_supply": null,
+                    "circulating_supply": 0,
+                    "total_supply": 30000000000,
+                    "platform": {
+                        "id": 1027,
+                        "name": "Ethereum",
+                        "symbol": "ETH",
+                        "slug": "ethereum",
+                        "token_address": "0xa4c7963b98838e8f958cf7b87a039249044fe2db"
+                    },
+                    "cmc_rank": 4720,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.001999459313177462,
+                            "volume_24h": 9934.70668227,
+                            "volume_change_24h": 77.294,
+                            "percent_change_1h": -0.00215641,
+                            "percent_change_24h": -82.60802572,
+                            "percent_change_7d": 75.09896993,
+                            "percent_change_30d": -93.33607833,
+                            "percent_change_60d": -94.25410893,
+                            "percent_change_90d": -88.23871537,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 59983779.4,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "9": {
+                    "id": 8518,
+                    "name": "Chickenkebab Finance",
+                    "symbol": "CHIK",
+                    "slug": "chickenkebab-finance",
+                    "num_market_pairs": 5,
+                    "date_added": "2021-02-18T00:00:00.000Z",
+                    "tags": [
+                        "bnb-chain"
+                    ],
+                    "max_supply": 1000000,
+                    "circulating_supply": 0,
+                    "total_supply": 0,
+                    "platform": {
+                        "id": 1839,
+                        "name": "BNB",
+                        "symbol": "BNB",
+                        "slug": "bnb",
+                        "token_address": "0x893411cacf9e62a744d9fc0f72f7fb1b1373b6cd"
+                    },
+                    "cmc_rank": 6870,
+                    "self_reported_circulating_supply": null,
+                    "self_reported_market_cap": null,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 0.0001813748484989538,
+                            "volume_24h": 36.55719893,
+                            "volume_change_24h": 1394.377,
+                            "percent_change_1h": -0.00215641,
+                            "percent_change_24h": -81.85691161,
+                            "percent_change_7d": -81.8450811,
+                            "percent_change_30d": -81.86749857,
+                            "percent_change_60d": -81.86359513,
+                            "percent_change_90d": -66.62993756,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 181.37,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            },
+            {
+                "10": {
+                    "id": 17974,
+                    "name": "Byepix",
+                    "symbol": "EPIX",
+                    "slug": "byepix",
+                    "num_market_pairs": 6,
+                    "date_added": "2022-02-09T07:39:14.000Z",
+                    "tags": [],
+                    "max_supply": 1000000000,
+                    "circulating_supply": 0,
+                    "total_supply": 1000000000,
+                    "platform": {
+                        "id": 1839,
+                        "name": "BNB",
+                        "symbol": "BNB",
+                        "slug": "bnb",
+                        "token_address": "0x90E1f81b298f6c180cE6f71a6BDB4ACf41Be8E01"
+                    },
+                    "cmc_rank": 5834,
+                    "self_reported_circulating_supply": 25000,
+                    "self_reported_market_cap": 26864.64998247723,
+                    "tvl_ratio": null,
+                    "last_updated": "2022-11-29T14:05:00.000Z",
+                    "quote": {
+                        "USD": {
+                            "price": 1.0745859992990892,
+                            "volume_24h": 617.16889218,
+                            "volume_change_24h": -99.774,
+                            "percent_change_1h": 33.93691974,
+                            "percent_change_24h": -81.80868535,
+                            "percent_change_7d": -95.24291099,
+                            "percent_change_30d": -91.76221869,
+                            "percent_change_60d": -91.76221869,
+                            "percent_change_90d": -91.76221869,
+                            "market_cap": 0,
+                            "market_cap_dominance": 0,
+                            "fully_diluted_market_cap": 1074585999.3,
+                            "tvl": null,
+                            "last_updated": "2022-11-29T14:05:00.000Z"
+                        }
+                    }
+                }
+            }
+        ],
+        "La quantita di denaro necessaria per acquistare una unita di ciascuna delle prime 20 criptovalute": 18077.60352169116,
+        "La quantita di denaro necessaria per acquistare una unita di tutte le criptovalute il cui volume delle ultime 24 ore sia superiore a 76.000.000$": 34700.61883168975,
+        "La percentuale di guadagno o perdita che avreste realizzato se aveste comprato una unita di ciascuna delle prime 20 criptovalute* il giorno prima (ipotizzando che la classifca non sia cambiata)": 1.68
+    }
+]
